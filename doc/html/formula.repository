@@ -1,0 +1,1 @@
+\form#0:\[ \max \{ \sum_{i = 0}^{n - 1} w[ i ] x[ i ] : x[ i ] \in \{ 0 , 1 \} \hspace{1cm} , i = 0 , ... , n - 1 \} \]
