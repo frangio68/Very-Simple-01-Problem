@@ -33,7 +33,9 @@ Current date is: May 04, 2012
 
 This release comes out with the following files:
 
--  doc/: PDF and HTML doxygen documentation
+-  docs/: Doxygen documentation of the code, also available at
+
+    https://frangio68.github.io/Very-Simple-01-Problem/. 
 
 -  doxygen/: doxygen files to produce the documentation
 
