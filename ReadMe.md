@@ -47,6 +47,6 @@ This release comes out with the following files:
 
 We have used this class in
 
-	http://pages.di.unipi.it/frangio/abstracts.html#MP05a
+http://pages.di.unipi.it/frangio/abstracts.html#MP05a
 
 
